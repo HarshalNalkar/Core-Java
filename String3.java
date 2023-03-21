@@ -1,6 +1,7 @@
 import java.util.Scanner;
 class String3
 {
+	//Write a program to check whether the given string of index.
 	public static void main(String[] args)
 	{
 		Scanner sc = new Scanner(System.in);
